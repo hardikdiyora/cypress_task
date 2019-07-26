@@ -1,0 +1,14 @@
+{
+  "name": "cypress_task",
+  "version": "1.0.0",
+  "description": "the test automation using CypressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hardikkumar Diyora",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.0"
+  }
+}
