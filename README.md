@@ -3,7 +3,11 @@
 ##### Command to run:
 > cypress open
 
-
-##### Test file:
 ~~~~~
+Page classes:
+cypress/integration/pages/
+
+
+Test file:
 cypress/integration/tests/check_broken_links.spec.js
+
